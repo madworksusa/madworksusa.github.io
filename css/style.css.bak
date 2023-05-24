@@ -49,7 +49,7 @@ img {
 	height: 60px;
 	margin: 0 44px 0 0;
 	padding: 0;
-	width: 200px;
+	width: 304px;
 }
 #header div a img {
 	display: block;
@@ -193,12 +193,12 @@ img {
 	font-size: 20px;
 	font-weight: normal;
 	line-height: 20px;
-	margin: 100px 0 27px;
+	margin: 187px 0 27px;
 	padding: 0 38px 0 399px;
 	position: relative;
 	text-align: right;
 	text-transform: uppercase;
-	width: 703px;
+	width: 503px;
 	z-index: 60;
 }
 #body.home .header div h2 {
@@ -214,7 +214,7 @@ img {
 	position: relative;
 	text-align: right;
 	text-transform: uppercase;
-	width: 500px;
+	width: 288px;
 	z-index: 60;
 }
 #body.home .header div a.more {

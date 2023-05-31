@@ -13,30 +13,30 @@
 	<div id="header">
 		<div class="clearfix">
 			<div class="logo">
-				<a href="index.html"><img src="images/logo_v3.gif" alt="LOGO" height="72" width="280"></a>
+				<a href="index.html"><img src="images/logo_v3.gif" alt="LOGO" height="82" width="280"></a>
 			</div>
 			<ul class="navigation">
 				<li class="active">
 					<a href="index.html">Home</a>
 				</li>
-				<li>
-					<a href="about.html">About</a>
-				</li>
-				<li>
-					<a href="practices.html">Best Practices</a>
-				</li>
-				<li>
-					<a href="lawyers.html">Research</a>
-				</li>
-				<li>
-					<a href="news.html">News</a>
-					<div>
-						<a href="singlepost.html">News Single Post</a>
-					</div>
-				</li>
-				<li>
-					<a href="contact.html">Contact</a>
-				</li>
+				<!-- <li> -->
+					<!-- <a href="about.html">About</a> -->
+				<!-- </li> -->
+				<!-- <li> -->
+					<!-- <a href="practices.html">Best Practices</a> -->
+				<!-- </li> -->
+				<!-- <li> -->
+					<!-- <a href="lawyers.html">Research</a> -->
+				<!-- </li> -->
+				<!-- <li> -->
+					<!-- <a href="news.html">News</a> -->
+					<!-- <div> -->
+						<!-- <a href="singlepost.html">News Single Post</a> -->
+					<!-- </div> -->
+				<!-- </li> -->
+				<!-- <li> -->
+					<!-- <a href="contact.html">Contact</a> -->
+				<!-- </li> -->
 			</ul>
 		</div>
 	</div>
@@ -58,9 +58,9 @@
 	<div id="contents">
 		<div id="adbox">
 			<div class="clearfix">
-				<img src="images/method_diagram.png" alt="Img" height="382" width="700">
+				<img src="images/virus.jpg" alt="Img" height="382" width="700">
 				<div class="detail">
-					<h1>Methane mitigation through <br> measurements.</h1>
+					<h1>asdf <br> ghjk.</h1>
 				</div>
 			</div>
 			
@@ -68,65 +68,65 @@
 		<div class="highlight">
 			<div class="clearfix">
 				<div class="testimonial">
-					<h2>Quotes</h2>
+					<h2>Favorite Quotes</h2>
 					<p>
-						&ldquo;If you cannot measure, you cannot manage.&rdquo;
+						&ldquo;Hope is not a plan.&rdquo;
 					</p>
-					<span>-Peter Drucker-</span>
+					<span>-Not Sure-</span>
 				</div>
-				<h1>Center for Methane Emission Research and Innovation Goals</h1>
+				<h1>Modeling Analysis and Design (MAD) Works</h1>
 				<p>
-					CMERI is focused on solving the measurement and mitigation problem with methane at UC Merced (see <a href="http://methane.ucmerced.edu/">Methane</a>).
+					MAD Works USA Inc. is centered around the core aspects of modeling, analysis, and design for solving engineering problems. 
 				</p>
 			</div>
 		</div>
 		<div class="featured">
-			<h2>Current Research</h2>
+			<h2>Current Projects</h2>
 			<ul class="clearfix">
 				<li>
 					<div class="frame1">
 						<div class="box">
-							<img src="images/renewableImage4.png" alt="Img" height="130" width="197">
+							<img src="images/virus.jpg" alt="Img" height="130" width="197">
 						</div>
 					</div>
 					<p>
-						<b>Biogas</b> See Co-PI <a href="https://faculty.ucmerced.edu/skurtz?_gl=1*14yqxxd*_ga*MTc2MTY0MzMyOC4xNjM1OTc0Mjcy*_ga_TSE2LSBDQZ*MTY4NTA2NzU3MS4xMDkuMS4xNjg1MDY3NjYwLjYwLjAuMA..">Sarah Kurtz</a>'s work investigating biogas mitigation options for methane reduction.
+						<b>Topic</b> 
 					</p>
 					<a href="index.html" class="more">Read More</a>
 				</li>
-				<li>
-					<div class="frame1">
-						<div class="box">
-							<img src="images/AirBurner.jpg" alt="Img" height="130" width="197">
-						</div>
-					</div>
-					<p>
-						<b>Biochar</b> See Co-PI <a href="https://faculty.ucmerced.edu/gdiaz?_gl=1*13nofg9*_ga*MTc2MTY0MzMyOC4xNjM1OTc0Mjcy*_ga_TSE2LSBDQZ*MTY4NTA2NzU3MS4xMDkuMS4xNjg1MDY3ODU4LjMyLjAuMA..">Gerardo Diaz</a>'s work developing biochar production and how it is used in dairy farms.
-					</p>
-					<a href="index.html" class="more">Read More</a>
-				</li>
-				<li>
-					<div class="frame1">
-						<div class="box">
-							<img src="images/zhangwork.png" alt="Img" height="130" width="197">
-						</div>
-					</div>
-					<p>
-						<b>Methane Sensing</b> See Co-PI <a href="https://sites.ucmerced.edu/xzhang-lab?_gl=1*hvahnc*_ga*MTc2MTY0MzMyOC4xNjM1OTc0Mjcy*_ga_TSE2LSBDQZ*MTY4NTA2NzU3MS4xMDkuMS4xNjg1MDY4MDAyLjMzLjAuMA..">Xuan Zhang</a>'s work on methane sensing ground-truthing and control tests.
-					</p>
-					<a href="index.html" class="more">Read More</a>
-				</li>
-				<li>
-					<div class="frame1">
-						<div class="box">
-							<img src="images/chenwork.JPG" alt="Img" height="130" width="197">
-						</div>
-					</div>
-					<p>
-						<b>Methane Quantification</b> See PI <a href="https://mechatronics.ucmerced.edu">YangQuan Chen</a>'s work developing methane quantification strategies utilizing machine learing based big data and Digital Twins.
-					</p>
-					<a href="index.html" class="more">Read More</a>
-				</li>
+				<!-- <li> -->
+					<!-- <div class="frame1"> -->
+						<!-- <div class="box"> -->
+							<!-- <img src="images/AirBurner.jpg" alt="Img" height="130" width="197"> -->
+						<!-- </div> -->
+					<!-- </div> -->
+					<!-- <p> -->
+						<!-- <b>Biochar</b> See Co-PI <a href="https://faculty.ucmerced.edu/gdiaz?_gl=1*13nofg9*_ga*MTc2MTY0MzMyOC4xNjM1OTc0Mjcy*_ga_TSE2LSBDQZ*MTY4NTA2NzU3MS4xMDkuMS4xNjg1MDY3ODU4LjMyLjAuMA..">Gerardo Diaz</a>'s work developing biochar production and how it is used in dairy farms. -->
+					<!-- </p> -->
+					<!-- <a href="index.html" class="more">Read More</a> -->
+				<!-- </li> -->
+				<!-- <li> -->
+					<!-- <div class="frame1"> -->
+						<!-- <div class="box"> -->
+							<!-- <img src="images/zhangwork.png" alt="Img" height="130" width="197"> -->
+						<!-- </div> -->
+					<!-- </div> -->
+					<!-- <p> -->
+						<!-- <b>Methane Sensing</b> See Co-PI <a href="https://sites.ucmerced.edu/xzhang-lab?_gl=1*hvahnc*_ga*MTc2MTY0MzMyOC4xNjM1OTc0Mjcy*_ga_TSE2LSBDQZ*MTY4NTA2NzU3MS4xMDkuMS4xNjg1MDY4MDAyLjMzLjAuMA..">Xuan Zhang</a>'s work on methane sensing ground-truthing and control tests. -->
+					<!-- </p> -->
+					<!-- <a href="index.html" class="more">Read More</a> -->
+				<!-- </li> -->
+				<!-- <li> -->
+					<!-- <div class="frame1"> -->
+						<!-- <div class="box"> -->
+							<!-- <img src="images/chenwork.JPG" alt="Img" height="130" width="197"> -->
+						<!-- </div> -->
+					<!-- </div> -->
+					<!-- <p> -->
+						<!-- <b>Methane Quantification</b> See PI <a href="https://mechatronics.ucmerced.edu">YangQuan Chen</a>'s work developing methane quantification strategies utilizing machine learing based big data and Digital Twins. -->
+					<!-- </p> -->
+					<!-- <a href="index.html" class="more">Read More</a> -->
+				<!-- </li> -->
 			</ul>
 		</div>
 	</div>
@@ -135,19 +135,19 @@
 			<div class="section">
 				<h4>Latest News</h4>
 				<p>
-					On April 30, PI YangQuan Chen was awarded the UC Climate Action Proposal for one million dollars (see <a href="https://mechatronics.ucmerced.edu/news"> MESA Lab news </a> ).
+					..
 				</p>
 			</div>
 			<div class="section contact">
 				<h4>Contact Us</h4>
 				<p>
-					<span>Address:</span> 5200 N. Lake Rd, Merced, CA 95343
+					<span>Address:</span> ...
 				</p>
 				<p>
-					<span>Phone:</span> (+1) 209 898 5633
+					<span>Phone:</span> (+1) 123456789
 				</p>
 				<p>
-					<span>Email:</span> dhollenbeck@ucmerced.edu
+					<span>Email:</span> madworksusa@gmail.com
 				</p>
 			</div>
 			<div class="section">
